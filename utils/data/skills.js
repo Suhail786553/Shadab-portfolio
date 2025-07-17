@@ -1,0 +1,22 @@
+export const skillsData = [
+  'Python',
+  // 'R',
+  'SQL',
+  'Pandas',
+  'NumPy',
+  'Matplotlib',
+  'Seaborn',
+  // 'Scikit-learn',
+  'TensorFlow',
+  'PyTorch',
+  // 'Keras',
+  // 'NLTK',
+  'OpenAI',
+  // 'LangChain',
+  // 'Hugging Face Transformers',
+  // 'Quantum Computing',
+  // 'Qiskit',
+  // 'PennyLane',
+  'AWS',
+  // 'Google Cloud ML'
+]
