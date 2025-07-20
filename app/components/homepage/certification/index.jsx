@@ -59,7 +59,7 @@ export default function Certifications() {
     {certifications.map((cert, index) => (
       <div
         key={index}
-        className="bg-gray-900 border border-gray-700 rounded-xl p-4 shadow hover:shadow-lg transition-all duration-300"
+        className="bg-gradient-to-tr from-[#16f2b3]/10 via-[#7c3aed]/10 to-[#1a1443]/10 border border-gray-700 rounded-xl p-4 shadow hover:shadow-lg transition-all duration-300"
       >
         <h3 className="text-lg font-semibold text-white">{cert.title}</h3>
         <p className="text-sm text-gray-300">{cert.provider}</p>
